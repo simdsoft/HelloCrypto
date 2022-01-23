@@ -6,17 +6,15 @@
 
 ## Build and run
 
-- Clone adxe(another cocos2d-x fork) and run setup.py in root of engine
-
-git clone https://github.com/adxeproject/adxe
+- Clone [adxe](https://github.com/adxeproject/adxe)(another cocos2d-x fork) and run setup.py in root of engine
 
 - Use cmake to build
 
-```bat
-REM Ensure visual studio 2019 or 2022 installed
-cmake -B build_x86 -A Win32 -DBUILD_EXTENSION_FAIRYGUI=OFF -DBUILD_EXTENSION_GUI=OFF
-cmake --build build_x86 --target HelloLua
-```
+  ```bat
+  REM Ensure visual studio 2019 or 2022 installed
+  cmake -B build_x86 -A Win32 -DBUILD_EXTENSION_FAIRYGUI=OFF -DBUILD_EXTENSION_GUI=OFF
+  cmake --build build_x86 --target HelloLua
+  ```
 
 - Open build_x86/HelloLua.sln, and press F5 to run, by default the vs debugging working directory is the encrypted folder `assets`,
  everything should be fine if the decrypt work well. 
