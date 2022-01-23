@@ -1,5 +1,5 @@
 ﻿//
-// Copyright (c) 2014-2019 halx99 - All Rights Reserved
+// Copyright (c) 2014-2022 Simdsoft Limited - All Rights Reserved
 //
 #ifndef _CRYPTO_UTILS_H_
 #define _CRYPTO_UTILS_H_
