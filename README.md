@@ -25,7 +25,7 @@
   - Delete file encrypt-cfg.xml and run do-encrypt.bat
   
 - Method B:
-  - run command: "%XS_INSTDIR%\x-studio" -c -enc -nk -cfg=.\encrypt-cfg.xml -i=.\assets-dev -o=.\assets
+  - run command: "%XS_INSTDIR%\x-studio" -c -enc -cfg=.\encrypt-cfg.xml -nk -i=.\assets-dev -o=.\assets
   
 - After reencrypt with new key, you needs change it at AppDelegate.cpp
 
