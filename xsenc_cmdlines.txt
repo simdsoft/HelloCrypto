@@ -1,0 +1,29 @@
+"%XS_INSTDIR%\x-studio" -c --help
+x-studio EncryptSystem Solution Version 10.0.9900.13
+Copyright (C) 2014-2022 x-studio.  All rights reserved.
+
+example: x-studio -c -enc -cfg=D:\encrypt-cfg.xml -i=D:\OriginalRes1 -o=D:\EncryptedRes1
+  -c: x-studio will run as command line mode when this flag specificed and must be the 1st parameter
+  -enc: Encrypt resources, must be the 2nd parameter
+  -dec: Decrypt resources, must be the 2nd parameter
+  -cfg=[file]: Specify the encryption configuration file for the encryption tool to save the encryption key and other encryption options, must be the 3rd parameter
+  -i=[path]: Specify the encrypted input directory
+  -o=[path]: Specify the encrypted output directory
+  -ow: Allow input directory same with output directory
+  -q: Quiet, no confirm when allow input directory same with output directory
+  -j[n]: Enable multi-threading cryptographic resources, such -j4 will start 4 threads to encrypt/decrypt assets
+  -t=*.png;*.csb: Specify the resource encryption file type
+  -cp=.ttf;.mp3;.ogg: Specifies file types for copy directly, some types of files may not need to be encrypted
+  -k128/-k192/-k256: Specifices AES key bits, default is -k256(256 bits)
+  -nk: If this option specificed, will always generate new random key/ivec and overwrite config file: encrypt-cfg.xml
+  -roll=5: Signature rolls, default value is 5
+  -bs=2: Specify bar style(1.simplified, 2.verbos),  default value is 2
+  -zlib=1: Specify whether compress before encrypt resource,  default is 1, we are always recommend enable compress.
+  -sign=1: Specify sign mode(0: Don't sign, 1: Use fixd sign, 2: Use random sign), default value is 1
+  -eflags=0: 1: Flat the filename with md5 and store to eflags.csv; 2: Compute file original content digest and store to eflags.csv; 4: Compute file final content digest and store to eflags.csv
+  -dda=md5: Specify file data digest algorithm, can be: md4, md5, sha1, sha256, sha384, sha512
+  -plugin=md5aes.dll: Specify plugin for encrypt & compute hash.
+
+!!! Bug Notes:
+
+The option `-cp` types store to `encrypt-cfg.xml` incorrect and will be fix at x-studio next release (v2022.1.4_9900.14)
