@@ -6,7 +6,11 @@
 
 ## Build and run
 
-- Ensure install visual studio 2019/2022
+- Clone adxe(another cocos2d-x fork) and run setup.py in root of engine
+
+git clone https://github.com/adxeproject/adxe
+
+# Ensure install visual studio 2019/2022
 - Use cmake to build
 cmake -B build_x86 -A Win32 -DBUILD_EXTENSION_FAIRYGUI=OFF -DBUILD_EXTENSION_GUI=OFF
 cmake --build build_x86 --target HelloLua
