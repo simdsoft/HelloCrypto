@@ -159,7 +159,7 @@ public:
                 cryptk::aes::privacy::mode_spec<>::decrypt(data, *size, data, outsize, encryptManager._encryptKey.c_str(), AES_DEFAULT_KEY_BITS, encryptManager._encryptIvec.c_str());
 
                 if (info.compressed) {
-                    auto uncomprData = cryptk::zlib_inflate<cryptk::streambuf>(cxx17::string_view((const char*)data, outsize), info.original_size);
+                    auto uncomprData = cryptk::zlib_inflate<yasio::byte_buffer>(cxx17::string_view((const char*)data, outsize), info.original_size);
 
                     free(data);
                     data = (unsigned char*)(uncomprData.detach(*size));
