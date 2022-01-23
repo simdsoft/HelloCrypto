@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<Project fullMode="0">
+  <assets>
+    <item path="dev-assets\src\cocos\extension\DeprecatedExtensionEnum.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\init.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocostudio\StudioConstants.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\extension\DeprecatedExtensionClass.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\package_support.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\extension\ExtensionConstants.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\init.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\NodeEx.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocos2d\luaoc.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocos2d\functions.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\display.lua" dflag="131076" />
+    <item path="dev-assets\src\app\views\MainScene.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\SpriteEx.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocostudio\DeprecatedCocoStudioClass.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocostudio\DeprecatedCocoStudioFunc.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocostudio\CocoStudio.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocos2d\Cocos2dConstants.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\UICheckBox.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\UIEditBox.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\device.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\MenuEx.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocos2d\DeprecatedCocos2dClass.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocos2d\bitExtend.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocos2d\deprecated.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\controller\ControllerConstants.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\components\event.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\extension\DeprecatedExtensionFunc.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\3d\3dConstants.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocos2d\luaj.lua" dflag="131076" />
+    <item path="dev-assets\src\app\MyApp.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocos2d\Cocos2d.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocos2d\DeprecatedCocos2dEnum.lua" dflag="131076" />
+    <item path="dev-assets\src\packages\mvc\AppBase.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocos2d\DeprecatedCocos2dFunc.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocos2d\DrawPrimitives.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\cocosdenshion\AudioEngine.lua" dflag="131076" />
+    <item path="dev-assets\src\packages\mvc\ViewBase.lua" dflag="131076" />
+    <item path="dev-assets\src\packages\mvc\init.lua" dflag="131076" />
+    <item path="CMakeLists.txt" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\LayerEx.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\UIPageView.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\physics3d\physics3d-constants.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\UIScrollView.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\spine\SpineConstants.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\network\DeprecatedNetworkEnum.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\network\DeprecatedNetworkClass.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\network\DeprecatedNetworkFunc.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\ui\GuiConstants.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\UIListView.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\UITextField.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\transition.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\UISlider.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\framework\extends\UIWidget.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\ui\DeprecatedUIEnum.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\ui\DeprecatedUIFunc.lua" dflag="131076" />
+    <item path="dev-assets\src\main.lua" dflag="131076" />
+    <item path="dev-assets\src\cocos\network\NetworkConstants.lua" dflag="131076" />
+    <item path="dev-assets\src\config.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\init.lua" dflag="131076" />
+    <item path="assets\src\cocos\extension\DeprecatedExtensionClass.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\package_support.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\MenuEx.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\transition.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\UISlider.lua" dflag="131076" />
+    <item path="assets\src\cocos\init.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\UITextField.lua" dflag="131076" />
+    <item path="assets\src\cocos\extension\DeprecatedExtensionEnum.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\device.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\SpriteEx.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\UICheckBox.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\UIListView.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\display.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\components\event.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\UIEditBox.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\UIWidget.lua" dflag="131076" />
+    <item path="assets\src\cocos\extension\DeprecatedExtensionFunc.lua" dflag="131076" />
+    <item path="assets\src\cocos\controller\ControllerConstants.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\LayerEx.lua" dflag="131076" />
+    <item path="assets\src\cocos\extension\ExtensionConstants.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\NodeEx.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\UIScrollView.lua" dflag="131076" />
+    <item path="assets\src\cocos\framework\extends\UIPageView.lua" dflag="131076" />
+    <item path="assets\src\cocos\3d\3dConstants.lua" dflag="131076" />
+    <item path="assets\src\app\MyApp.lua" dflag="131076" />
+    <item path="assets\src\app\views\MainScene.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocos2d\bitExtend.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocos2d\Cocos2d.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocos2d\Cocos2dConstants.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocos2d\luaoc.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocos2d\functions.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocostudio\CocoStudio.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocostudio\StudioConstants.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocostudio\DeprecatedCocoStudioClass.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocos2d\luaj.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocos2d\DrawPrimitives.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocos2d\DeprecatedCocos2dClass.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocos2d\deprecated.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocostudio\DeprecatedCocoStudioFunc.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocos2d\DeprecatedCocos2dEnum.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocosdenshion\AudioEngine.lua" dflag="131076" />
+    <item path="assets\src\cocos\cocos2d\DeprecatedCocos2dFunc.lua" dflag="131076" />
+    <item path="build_x86\engine\thirdparty\openal\version.h" dflag="131076" />
+    <item path="build_x86\CMakeFiles\3.20.3\VCTargetsPath.txt" dflag="131076" />
+    <item path="build_x86\CMakeFiles\3.20.3\CompilerIdC\CMakeCCompilerId.c" dflag="131076" />
+    <item path="build_x86\CMakeFiles\3.20.3\CompilerIdCXX\CMakeCXXCompilerId.cpp" dflag="131076" />
+    <item path="build_x86\CMakeFiles\TargetDirectories.txt" dflag="131076" />
+    <item path="build_x86\engine\thirdparty\freetype\include\freetype\config\ftconfig.h" dflag="131076" />
+    <item path="build_x86\engine\thirdparty\freetype\include\freetype\config\ftoption.h" dflag="131076" />
+    <item path="build_x86\engine\thirdparty\openal\config.h" dflag="131076" />
+    <item path="frameworks\runtime-src\Classes\AppDelegate.cpp" dflag="131076" />
+    <item path="frameworks\runtime-src\Classes\AppDelegate.h" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\build\native\include\WebView2EnvironmentOptions.h" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\build\native\include\WebView2.h" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\lib\net45\Microsoft.Web.WebView2.Wpf.xml" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\lib\netcoreapp3.0\Microsoft.Web.WebView2.Wpf.xml" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\build\native\include-winrt\WebView2Interop.h" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\lib\net45\Microsoft.Web.WebView2.Core.xml" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\lib\net45\Microsoft.Web.WebView2.WinForms.xml" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\LICENSE.txt" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\lib\netcoreapp3.0\Microsoft.Web.WebView2.WinForms.xml" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\tools\VisualStudioToolsManifest.xml" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\WebView2.idl" dflag="131076" />
+    <item path="encrypt-cfg.xml" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\build\native\include-winrt\WebView2Interop.idl" dflag="131076" />
+    <item path="build_x86\packages\Microsoft.Web.WebView2\lib\netcoreapp3.0\Microsoft.Web.WebView2.Core.xml" dflag="131076" />
+    <item path="frameworks\runtime-src\Classes\lua_module_register.h" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.android\gradle\wrapper\gradle-wrapper.properties" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.android\app\AndroidManifest.xml" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.android\app\res\values\strings.xml" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.android\app\src\org\cocos2dx\lua\AppActivity.java" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.ios_mac\ios\AppController.h" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.android\app\jni\hellolua\main.cpp" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.android\gradle.properties" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.ios_mac\ios\RootViewController.h" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.ios_mac\ios\RootViewController.mm" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.ios_mac\ios\AppController.mm" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.android\app\get_environment.sh" dflag="131076" />
+    <item path="assets\src\cocos\network\NetworkConstants.lua" dflag="131076" />
+    <item path="assets\src\cocos\spine\SpineConstants.lua" dflag="131076" />
+    <item path="assets\src\packages\mvc\ViewBase.lua" dflag="131076" />
+    <item path="assets\src\cocos\ui\GuiConstants.lua" dflag="131076" />
+    <item path="assets\src\cocos\network\DeprecatedNetworkClass.lua" dflag="131076" />
+    <item path="assets\src\cocos\ui\DeprecatedUIEnum.lua" dflag="131076" />
+    <item path="assets\src\cocos\ui\DeprecatedUIFunc.lua" dflag="131076" />
+    <item path="assets\src\main.lua" dflag="131076" />
+    <item path="assets\src\packages\mvc\AppBase.lua" dflag="131076" />
+    <item path="build_x86\CMakeCache.txt" dflag="131076" />
+    <item path="assets\src\cocos\physics3d\physics3d-constants.lua" dflag="131076" />
+    <item path="assets\src\cocos\network\DeprecatedNetworkEnum.lua" dflag="131076" />
+    <item path="assets\src\cocos\network\DeprecatedNetworkFunc.lua" dflag="131076" />
+    <item path="assets\src\config.lua" dflag="131076" />
+    <item path="assets\src\packages\mvc\init.lua" dflag="131076" />
+    <item path="README.txt" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.linux\main.cpp" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.win32\main.h" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.ios_mac\mac\main.cpp" dflag="131076" />
+    <item path="run.bat.txt" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.win32\main.cpp" dflag="131076" />
+    <item path="frameworks\runtime-src\proj.win32\game.rc" dflag="131076" />
+  </assets>
+  <debug-options>
+    <start-program>build\bin\HelloLua\Debug\HelloLua.exe</start-program>
+    <start-working-dir>.</start-working-dir>
+    <start-command />
+    <search-paths>
+      <item>src</item>
+    </search-paths>
+  </debug-options>
+  <project-home>.</project-home>
+  <ssheets />
+  <assets.ref />
+</Project>
