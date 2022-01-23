@@ -1,8 +1,8 @@
 
 ## Folder description
 
-- dev-assets: The plain resources for dev, debugging
-- assets: The encrypted resources for tests/release/publish
+- assets-dev: The plain resources for dev, debugging
+- assets: The encrypted resources for online or publish
 
 ## Build and run
 
@@ -20,7 +20,7 @@ cmake --build build_x86 --target HelloLua
   - Delete file encrypt-cfg.xml and run do-encrypt.bat
   
 - Method B:
-  - run command: "%XS_INSTDIR%\x-studio" -c -enc -nk -cfg=.\encrypt-cfg.xml -i=.\dev-assets -o=.\assets
+  - run command: "%XS_INSTDIR%\x-studio" -c -enc -nk -cfg=.\encrypt-cfg.xml -i=.\assets-dev -o=.\assets
   
 - After reencrypt with new key, you needs change it at AppDelegate.cpp
 
