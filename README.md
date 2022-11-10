@@ -6,7 +6,7 @@
 
 ## Build and run
 
-- Clone [adxe](https://github.com/adxeproject/adxe)(another cocos2d-x fork) and run setup.py in root of engine
+- Clone [axmol](https://github.com/axmolengine/axmol)(another cocos2d-x fork) and run setup.py in root of engine
 
 - Use cmake to build
 
